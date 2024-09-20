@@ -312,6 +312,9 @@ legend {
   color: inherit;
   white-space: normal;
 }
+.cat-item{
+  background-color: #EDF1FF !important;
+}
 
 @media (max-width: 1200px) {
   legend {
@@ -1837,6 +1840,9 @@ pre code {
   }
   .table-responsive-md > .table-bordered {
     border: 0;
+  }
+  img.img-fluid{
+    width:70% !important;
   }
 }
 
