@@ -1826,6 +1826,9 @@ pre code {
   .table-responsive-sm > .table-bordered {
     border: 0;
   }
+  .carousel-item{
+    height:60% !important;
+  }
 }
 
 @media (max-width: 767.98px) {
@@ -1855,6 +1858,9 @@ pre code {
   }
   .table-responsive-lg > .table-bordered {
     border: 0;
+  }
+  .carousel-item{
+    height:60% !important;
   }
 }
 
